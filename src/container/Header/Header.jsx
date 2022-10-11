@@ -7,12 +7,15 @@ import "./Header.css";
 const Header = () => (
   <div className="app__header app__wrapper section__padding id='home' ">
     <div className="app__wrapper_info">
-      <SubHeading title="Chase the new flavour" />
-      <h1 className="app__header-h1">The Key to Fine Dining</h1>
+      {/* <SubHeading title="Chase the new flavour" /> */}
+      <SubHeading title="You just have to #lovecaju" />
+      {/* <h1 className="app__header-h1">The Key to Fine Dining</h1> */}
+      <h1 className="app__header-h1">
+        THE BRASSERIE ULTIMATE DINING EXPERIENCE
+      </h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
-        Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat
-        morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet
-        tellus
+        The concept of CAJU by Joseph Hadad brasserie is casual dining with
+        affordable tasty dishes, which can pamper all your senses.
       </p>
       <button type="button" className="custom__button">
         Explore Menu

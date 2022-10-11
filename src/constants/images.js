@@ -20,6 +20,9 @@ import award05 from "../assets/award05.png";
 import sign from "../assets/sign.png";
 import quote from "../assets/quote.png";
 import gericht from "../assets/gericht.png";
+import caju from "../assets/caju-by-josephhadad.png";
+import C from "../assets/C.png";
+import josephSign from "../assets/joseph-sign.png";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
@@ -45,4 +48,7 @@ export default {
   sign,
   quote,
   gericht,
+  caju,
+  C,
+  josephSign,
 };

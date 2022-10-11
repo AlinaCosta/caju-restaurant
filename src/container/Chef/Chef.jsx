@@ -16,19 +16,21 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .
+            I breath spices and I create them from scratch.
           </p>
         </div>
         <p className="p__opensans">
-          auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
-          Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
-          lectus eu. Congue iaculis integer curabitur semper sit nunc.
+          I dream every recipe, I wake up in the morning, I draw it and then I
+          walk in the kitchen and cook it. This is the process of every single
+          recipe from the menu. Besides my three children, the biggest
+          accomplishment of my life is the ability of reinventing new and new
+          recipes.
         </p>
       </div>
       <div className="app__chef-sign">
-        <p>Kevin Luo</p>
+        <p>Joseph Hadad</p>
         <p className="p__opensans">Chef & Founder</p>
-        <img src={images.sign} alt="sign" />
+        <img src={images.josephSign} alt="sign" />
       </div>
     </div>
   </div>

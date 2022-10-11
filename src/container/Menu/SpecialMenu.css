@@ -30,7 +30,7 @@
   flex-direction: column;
 }
 .app__specialMenu-menu_img {
-  width: 410px;
+  width: 550px;
   margin: 0 2rem;
 }
 .app__specialMenu-menu_img img {
@@ -46,10 +46,10 @@
 
 @media screen and (max-width: 2000px) {
   .app__specialMenu-menu_img {
-    width: 650px;
+    width: 370px;
   }
   .app__specialMenu-menu_img img {
-    height: 920px;
+    /* height: 600px; */
   }
 }
 @media screen and (max-width: 1150px) {
